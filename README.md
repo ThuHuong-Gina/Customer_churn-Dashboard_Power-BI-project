@@ -53,13 +53,32 @@ The dataset includes 3 tables:
 
 ### III.1. Sale dashboard
 
+#### Sales Analysis Dashboard:
+- Sales department can analyze sales and profit through this dashboard. Filter through years and quarterly sales.
+- The company has made a Total Sales of 12.64 million and Total Profit of 1.47M between 2011- 2014.
+- 4.3 million worth of sales and 504.17K profit was made in 2014.
+- 45% of profit came from product category technology, 35% from Office Supplies, and 19% from Furnitures.
+- The 2014 4th quarter has seen high sales revenue and profit cause this is year's end, people tend to buy more products.
+
 ![image](https://github.com/ThuHuong-Gina/SuperStore-Dashboard_Power-BI-project/assets/141025228/adf3af38-ec92-4201-8ee0-f96b64992ed7)
 
 ### III.2. Product dashboard
+#### Product Analysis Dashboard: 
+- This dashboard dive deep into product categories, quantity ordered, product- subcategory
+- Highest amount of office supplies have been ordered in terms of quantity.
+- Despite selling only one-third of the quantity compared to office supplies, the technology products generates the highest revenue.
+- Table items have the highest discount rate
+- Through 2011 to 2014 Office supplies always is the highest number of products that were sold
 
 ![image](https://github.com/ThuHuong-Gina/SuperStore-Dashboard_Power-BI-project/assets/141025228/83f389e1-1a34-44eb-b40a-21cdd84cfea7)
 
 ### III.3. Shipping dashboard
+
+#### Shipping Analysis Dashboard:
+- Total shipping cost through 2011-2014 is 1.35M and total quantity is 178K
+- Standard shipping class accounts for 614K shipping cost and 107K number of orders.
+- The number of orders gradually increased at the end of the year, with a sharp decrease in July but a sharp increase around October.
+- APAC markets have highest shipping cost, followed by EU and US
 
 ![image](https://github.com/ThuHuong-Gina/SuperStore-Dashboard_Power-BI-project/assets/141025228/9206be06-eba4-434c-81bf-c93bfb3cd4f4)
 
