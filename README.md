@@ -1,22 +1,24 @@
-# SuperStore-Dashboard_Power-BI-project
+# SUPERSTORE DASHBOARD - Power BI
+## I. OVERVIEW
 
-Power BI dashboards offer valuable assistance in delivering comprehensive sales performance and organizational trend insights. 
-The dashboard should encompass crucial metrics like overall sales, product-specific sales, sales based on different locations, sales by customer segments, and sales categorized by product types. 
-Furthermore, it should facilitate comparisons of performance with previous years and allow users to explore detailed information for individual markets and products through drill-down functionality.
+- Power BI dashboards can serve as a valuable tool for gaining insights into an organization's sales performance and identifying trends.
+  
+- The dashboard should encompass essential metrics like overall sales, product-specific sales, geographical sales distribution, customer segment analysis, and product category breakdown.
+  
+- Additionally, it should facilitate year-over-year performance comparisons and enable users to explore specific markets and products in greater detail through drill-down capabilities.
 
-# 1. Business question
-The sales department wants to know the overview of inventory status and look up the product inventory by category and location to come up with an appropriate sales and marketing strategy.
+### I.1. Business question
 
-3 2. Dataset
+- Senior executives seek access to business data to formulate strategies for market expansion and make informed decisions regarding strategic product selections.
+  
+- Develop a dashboard that offers insights and recommendations drawn from the data analysis, assisting stakeholders in addressing the challenges they encounter.
+- 
+### I.2 Dataset 
 Dataset: adventureworks2019 (public Google BigQuery dataset)
 
 Dataset dictionary: Please reach file "Data Dictionary" attached above
 
 Dataset Schema: https://i0.wp.com/improveandrepeat.com/wp-content/uploads/2018/12/AdvWorksOLTPSchemaVisio.png?ssl=1
 
-Dataset access:
+![image](https://github.com/ThuHuong-Gina/SuperStore-Dashboard_Power-BI-project/assets/141025228/520f8714-eef1-4384-a7d2-3ed024925170)
 
-Log in to your Google Cloud Platform account and create a new project.
-Navigate to the BigQuery console and select your newly created project.
-In the navigation panel, select "Add Data" and then "Star a project by name".
-Enter the project name "adventurework2019"
