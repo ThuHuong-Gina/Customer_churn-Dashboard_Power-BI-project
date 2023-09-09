@@ -14,11 +14,15 @@
 - Develop a dashboard that offers insights and recommendations drawn from the data analysis, assisting stakeholders in addressing the challenges they encounter.
 - 
 ### I.2 Dataset 
-Dataset: adventureworks2019 (public Google BigQuery dataset)
 
-Dataset dictionary: Please reach file "Data Dictionary" attached above
+Dataset: SuperStore Sales (2011-2015)-kaggle
 
-Dataset Schema: https://i0.wp.com/improveandrepeat.com/wp-content/uploads/2018/12/AdvWorksOLTPSchemaVisio.png?ssl=1
-
+The dataset includes 3 tables: 
+- Orders: Fact table that holds comprehensive data about purchases and customers.
+- Return: Dimention table that stores information related to orders that have been returned to the store.
+- People: Dimention table, which has information of salespersons.
+  
 ![image](https://github.com/ThuHuong-Gina/SuperStore-Dashboard_Power-BI-project/assets/141025228/520f8714-eef1-4384-a7d2-3ed024925170)
+
+### I.3. Design thinking method
 
